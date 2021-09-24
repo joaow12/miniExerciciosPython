@@ -1,0 +1,1 @@
+Exercicios da pagina: https://wiki.python.org.br/ListaDeExercicios
